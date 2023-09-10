@@ -17,4 +17,5 @@ Credits:
 
 
 # Agencyment Landing Page Preview
-![agencyment-preview](https://github.com/shail-mehta/agencyment/assets/22027190/c7186888-ec3d-4255-885d-5b25b027b075)
+
+![agencyment-preview](https://github.com/shail-mehta/agencyment/assets/22027190/55503781-4139-4280-93a4-5a4931128ade)
